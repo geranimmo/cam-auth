@@ -1,5 +1,5 @@
-# React + Webpack Boilerplate
-React + Webpack Template Starter
+# Face Recognition For Authentication
+Authentication With Face Recognition, Built in React and Webpack
 
 ### Run Development Server With Hot Reload
 
